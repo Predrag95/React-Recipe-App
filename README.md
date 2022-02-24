@@ -2,4 +2,4 @@
 
 visit here: https://predrag95.github.io/React-Recipe-App/
 
-Only Thing left to do is to finish the CSS
+REACT PROJECT ======> CSS NOT FINISHED (Will finish it soon)
